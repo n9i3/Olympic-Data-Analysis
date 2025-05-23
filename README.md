@@ -5,3 +5,4 @@ In this project we went through an end-to-end on creating a Power BI dashboard u
 
 
 Screeshots/demo:-
+           so the dashboard looks like :- ![ALT text]
